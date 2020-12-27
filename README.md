@@ -1,11 +1,11 @@
 # Home-Credit-Default-Risk-Prediction
 This project was the part of my course IST 707 - Data Analytics
 
-##Description
+## Description
 The goal of the project is to predict whether or not a customer will default on their loan. 
 The dataset used for this project was part of a [Kaggle competition organized by Home Credit](https://www.kaggle.com/c/home-credit-default-risk).
 
-##Language
+## Language
 - Python
 
 ## Files
